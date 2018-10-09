@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hit The Boss</string>
+    <string name="startValue">0</string>
+    <string name="startHP_enemy">1000</string>
+    <string name="currentDamage">40</string>
+    <string name="start">15</string>
+    <string name="times_up">Times Up</string>
+    <string name="timeout">timeout</string>
+</resources>
